@@ -1,0 +1,39 @@
+**O que é Estrutura de dados?**
+
+É uma estrutura organizada de dados na memória de um computador ou em qualquer dispositivos de armazenamento, de forma que os dados possam ser utilizados de forma correta.
+
+Essas estruturas encontram muitas aplicações no desenvolvimento de sistemas, sendo que algumas são altamente especializadas e utilizada em tarefas específicas. Usando as estruturas adequadas através de algoritmos, podemos trabalhar com uma grande quantidade de dados, como aplicações em bando de dados ou serviços de busca.
+
+**Algoritmo**
+Um algoritmo é um conjunto de instruções estruturadas e ordenadas, seu objetivo é realizar uma tarefa ou operação específica.
+
+Os algoritmos são utilizados para manipular dados nas estruturas de várias formas, como por exemplo: inserir, excluir, procurar e ordenar dados.
+
+**Principais Estruturas de Dados**
+
+- Vetores e Matrizes
+- Registro
+- Lista
+- Pilha
+- Fila
+- Árvore
+- Tabela Hash
+- Grafos
+
+
+**VETORES E MATRIZES**
+Vetores e Matrizes ou Arrays são estruturas de dados simples que podem nos auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo.
+
+Vetor ou array uni-dimensional é uma variável que armazeno várias variáveis do mesmo tipo.O vetor é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo. (Sempre começando do zero)
+
+
+
+**REGISTROS**
+Um registro é uma estrutura que forne um formato especializado para armazenar informações em memória.
+
+Enquanto Arrays nos permitem armazenar vários dados de um único tipo de dado, o recurso registro nos permite armazenar mais de um tipo de dado.
+Um registro é composto por campos que especificam cada uma das informações que o compõem.
+
+Toda estrutura de registro tem um nome (ex: livro), e seus campos podem ser acessados por meio do uso do operardor ponto ( . ). Por exemplo, para acessar o preço de um livro, poderíamos utilizar a seguinte declaração:
+
+livro.preço
